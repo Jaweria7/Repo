@@ -2,5 +2,4 @@
 
 This is sample text.
 Changes have been made.
-New lines are added.
-Everything working fine.
+New lines are added...!
