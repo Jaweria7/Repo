@@ -1,3 +1,4 @@
 # Demo
 
-This is sample text
+This is sample text.
+Changes have been made.
